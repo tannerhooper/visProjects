@@ -1,0 +1,138 @@
+
+
+body {
+/*    font-family: Lato;*/
+}
+
+h1 {
+/*    font-family: "Arvo";*/
+    font-size:35px;
+    color: #464646;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 20px;
+}
+.info{
+    margin-left: 20px;
+}
+.tile {
+    stroke: #FFF;
+    stroke-width: 4;
+}
+
+.yeartext, .tilestext, .brushtext{
+    text-anchor:middle;
+    font-size: 24px;
+    stroke-width: 0.1px;
+    /*stroke: #e5e5e5;*/
+}
+
+.electoralVotesNote, .votesPercentageNote{
+    text-anchor:middle;
+    font-size: 24px;
+}
+
+.electoralVoteText, .votesPercentageText{
+    /*font-size: 35px;*/
+    font-size: 24px;
+}
+.end{
+    text-anchor:end;
+}
+
+.nomineeInfoText{
+    font-size: 36px;
+}
+.Axis{
+    stroke: #eee;
+    stroke-width: 4;
+}
+.content {
+    display: inline-block;
+    width: 70%;
+}
+
+.sideBar {
+    display: inline-block;
+    width: 30%;
+    float:right;
+}
+
+.electoralVotes{
+    stroke: #eee;
+}
+
+.middlePoint{
+    stroke: #eee;
+}
+
+.fullView{
+    display: inline-block;
+    width: 100%;
+}
+
+.yearChart{
+    stroke: #FFF;
+}
+
+.lineChart{
+    stroke: #A0A0A0;
+    stroke-dasharray: 2,2;
+}
+
+.votesPercentage{
+    stroke: #eee;
+    fill: red;
+}
+
+.highlighted{
+    stroke: #404040;;
+    stroke-width:4;
+    resize: 4
+}
+
+.brush .selection {
+    fill-opacity: .5;
+}
+
+.selected{
+    stroke: #404040;;
+    stroke-width:4;
+    r:25px;
+}
+
+
+h2{
+    -webkit-margin-before: 5px;
+    -webkit-margin-after:  5px;
+}
+.d3-tip {
+    /*line-height: 5;*/
+    padding-left: 10px;
+    padding-right: 10px;
+    min-width: 400px;
+    border-style: groove;
+    /*padding: 12px;*/
+    background: #FFFFFF;
+    color: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    pointer-events: none;
+}
+.tooltip-title{
+    font-size:18px;
+    font-family: "Arial Black";
+
+}
+
+.tooltipDiv {
+    content: "\25BC";
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+h3{
+    text-anchor:middle;
+    font-size: 32px;
+}
+
+

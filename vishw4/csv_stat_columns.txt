@@ -1,0 +1,44 @@
+General stats:
+- total pop
+- average population (several cols)
+- urban/rural pop. growth
+
+Prosperity and things that might be correlated:
+Unemployment, total (% of total labor force)
+Smoking prevalence, total, ages 15+
+Net migration
+Number of people who are undernourished
+Out-of-pocket expenditure per capita (current US$)
+Labor force, total
+Labor force, female (% of total labor force)
+Literacy rate, adult total (% of people ages 15 and above)
+Literacy rate, youth total (% of people ages 15-24)
+Literacy rate, adult male (% of males ages 15 and above) / other related columns
+Out-of-pocket expenditure per capita (current US$)
+Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)
+School enrollment, primary (% gross) / other related columns
+Poverty headcount ratio at national poverty line (% of population)
+Prevalence of overweight (% of adults) / more
+Public spending on education, total (% of GDP)
+
+Birth/child stats:
+Fertility rate, total (births per woman)
+Adolescent fertility rate (births per 1,000 women ages 15-19)
+Birth rate, crude (per 1,000 people)
+Low-birthweight babies (% of births)
+Malnutrition prevalence, height for age (% of children under 5)
+Malnutrition prevalence, weight for age (% of children under 5)
+Maternal mortality ratio (modeled estimate, per 100,000 live births) / national estimate
+Mortality rate, infant (per 1,000 live births)
+
+Death related stats:
+Death rate, crude (per 1,000 people)
+Life expectancy at birth, total (years)
+Lifetime risk of maternal death (%)
+Survival to age 65, female (% of cohort)
+Suicide mortality rate (per 100,000 population)
+Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)
+Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)
+Mortality rate, adult, male (per 1,000 male adults)
+Physicians (per 1,000 people)
+Suicide mortality rate (per 100,000 population)

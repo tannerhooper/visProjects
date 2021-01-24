@@ -1,0 +1,44 @@
+Name,Id,Parent,Type,Count,Leader,SName,Key,RankId,Classification
+Grand Army of the Republic,1,,0,3200000,Supreme Chancellor Sheev Palpatine,Chancellor Palpatine,1,1,0
+Third Systems Army,4,1,1,294912,Jedi General Obi-Wan Kenobi,General Kenobi,3,4,1
+212th Attack Battalion,5,4,6,576,Commander Cody,Commander Cody,4,6,2
+2nd Airbourne Company,6,5,7,144,Commander Cody,Commander Cody,4,6,2
+A Squad,7,6,9,9,Commander Cody,Commander Cody,4,6,2
+Ghost Company,8,5,7,144,Commander Cody,Commander Cody,4,6,2
+Parjai Squad,9,6,9,9,Sergeant Barlex,Sergeant Barlex,5,12,2
+Foxtrot Group,10,8,8,36,Gregor,Gregor,6,10,2
+Gregor's Squad,11,10,9,9,Gregor,Gregor,6,10,2
+Squad 7,12,6,9,9,Major Jorir,Major Jorir,7,8,2
+7th Sky Corp,13,4,3,36864,Jedi General Obi-Wan Kenobi,General Kenobi,3,4,1
+212th Recon Division,14,5,3,36864,Jedi General Obi-Wan Kenobi,General Kenobi,3,4,1
+Waxer's Platoon,15,8,8,36,Lieutenant Waxer,Lieutenant Waxer,8,11,2
+Systems Army Alpha,16,1,1,294912,High Jedi General Mace Windu,General Windu,9,2,1
+Second Army,17,16,2,147456,Senior Jedi General Ry-Gaul,General Ry-Gaul,10,3,1
+327th Star Corp,18,17,2,147456,Jedi General Aayla Secura,General Secura,10,4,1
+91st Mobile Reconnaissance Corps,19,16,3,36864,Commander Ponds,Commander Ponds,11,7,2
+7th Legion,20,18,4,9216,Commander A den,Commander A den,12,7,2
+187th Legion,21,16,4,9216,High Jedi General Mace Windu,General Windu,9,2,1
+101st Regiment,22,18,5,2304,Jedi Commander Danyawarra,Commander Danyawarra,13,5,1
+Hawkbat Battalion,23,18,6,576,Major Twelve,Major Twelve,14,8,2
+Bacta Company,24,23,7,144,Captain Tyto,Captain Tyto,15,9,2
+K Company,25,23,7,144,Commander Deviss,Commander Deviss,16,7,2
+2nd Platoon,26,24,8,36,Lieutenant Barr,Lieutenant Barr,17,11,2
+Lightning Squadron,27,19,9,9,Commander Ponds,Commander Ponds,11,7,2
+Talon Squad,28,18,9,9,Sergeant Green,Sergeant Green,18,12,2
+501st Legion,29,4,4,9216,Jedi General Anakin Skywalker,General Skywalker,19,4,1
+Torrent Company,30,29,7,144,Captain Rex,Captain Rex,20,9,2
+332nd Company,31,29,7,144,Jedi Commander Ahsoka Tano,Commander Tano,21,5,1
+Execute Battalion,32,30,6,576,Captain Rex,Captain Rex,20,9,2
+Carnivore Battalion,33,30,6,576,Captain Rex,Captain Rex,20,9,2
+Wildfire,34,32,9,9,Captain Rex,Captain Rex,20,9,2
+Snow Wolves,35,32,9,9,Jedi General Obi-Wan Kenobi,General Kenobi,3,4,1
+Calm Tree,36,32,9,9,Jedi General Anakin Skywalker,General Skywalker,19,4,1
+Rex's Squad,37,33,9,9,Captain Rex,Captain Rex,20,9,2
+4th Outer Rim Army,38,1,1,294912,Jedi General Ki-Adi-Mundi,General Mundi,2,4,1
+21st Nova Corps,39,38,3,36864,Commander Bacarra,Commander Bacarra,22,7,2
+104th Battalion,40,38,6,576,Jedi General Plo Koon,General Koon,23,4,1
+Wolfpack,41,40,8,36,Commander Wolffe,Commander Wolffe,24,7,2
+Shadow Squadron,42,29,9,9,Jedi General Anakin Skywalker,General Skywalker,19,4,1
+Coruscant Guard,43,1,3,36864,Commander Fox,Commander Fox,25,7,2
+Diplomatic Service,44,43,6,576,Commander Thorn,Commander Thorn,26,7,2
+Thires Squad,45,43,9,9,Commander Thire,Commander Thire,27,7,2

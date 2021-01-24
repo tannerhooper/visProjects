@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>CS 5820- HW5</title>
+  <link rel="stylesheet" href="/style.css" />
+  <!--script src="https://d3js.org/d3.v4.js"></script-->
+  <script src="d3.js"></script>
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <h1 class="outlined" style="letter-spacing: 3px;">Exploring the Structure of the Grand Army of the Republic</h1>
+      <div>Name: Tanner Hooper; E-Mail: tannerhooper@yahoo.com; A#: A01818783</div>
+      <div>Name: Conner Nance; E-Mail: conner.nance1@gmail.com; A#: A01836222</div>
+    </header>
+    <div class="leftColumn">
+      <div class="view">
+        <h2 class="outlined underlined spaced1">Generals</h2>
+        <table id="table">
+          <thead>
+            <tr>
+              <th class="header">General</th>
+              <td class="header sortCol cen">Troopers</td>
+              <td class="header sortCol cen">Leader Positions</td>
+              <td class="header sortCol cen">Rank</td>
+              <td class="header sortCol cen">Classification</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td id="leaderHeader"></td>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+
+      </div>
+    </div>
+
+    <div class=" centerColumn">
+      <img id="leader" src="data/images/clones.jpg">
+      <h2 class="outlined spaced1" id="leaderName"></h2>
+      <h2 class="outlined spaced1" id="leaderRole"></h2>
+      <svg id="leg" width=150 height=75></svg>
+    </div>
+
+    <div class="rightColumn">
+      <div class="view">
+        <h2 class="outlined underlined spaced1">Hierarchy</h2>
+        <svg width="500" height="900">
+          <g id="tree"></g>
+        </svg>
+      </div>
+    </div>
+
+  </div>
+  <!--<script type="application/javascript" src="load_hacker.js"></script>-->
+  <script type="application/javascript" src="js/tree.js"></script>
+  <script type="application/javascript" src="js/table.js"></script>
+  <script type="application/javascript" src="/js/main.js"></script>
+  <script type="application/javascript" src="js/util.js"></script>
+
+  <!-- https://www.soundboard.com/sb/sound/76162 -->
+  <audio id="senate" src="./data/sounds/thesenate.mp3" preload="auto"></audio>
+</body>
+
+</html>

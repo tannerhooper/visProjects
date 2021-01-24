@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Homework 4</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<link rel="stylesheet" href="style.css">
+	<script src="topojson.min.js"></script>
+	<script src="map.js" async></script>
+	<script src="main.js" async></script>
+</head>
+
+<body>
+	<header>
+		<h2>CS-5820 Homework 4 - Population statistics</h2>
+		<h4>Cole Buhman - buhmancole@gmail.com - A02228854</h4>
+		<h4>Tanner Hooper - tannerhooper@yahoo.com - A01818783</h4>
+	</header>
+	
+	<main>
+		<section class="chartdiv">
+			<select name="dropdown" id="dropdown"></select>
+			<svg class="svgChart"></svg>
+		</section>
+		
+		<section class="mapdiv">
+			<svg id="map" class="svgMap"></svg>
+		</section>
+		
+		<section class="infodiv">
+			<div class="inforank">
+				<h3>Top 10 Countries</h3>
+				<div id="top"></div>
+			</div>
+			<div class="inforank">
+				<h3>Bottom 10 Countries</h3>
+				<div id="btm"></div>
+			</div>
+		</section>
+	</main>
+	<script onload="init()" src="main.js"></script>
+</body>
+</html>
